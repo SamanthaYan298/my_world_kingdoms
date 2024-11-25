@@ -20,9 +20,6 @@ h1 {
   unicode-bidi: isolate;
   text-align: left;
   font-size: 1.4em;
-}
-
-.name {
   color: purple;
 }
 
@@ -38,13 +35,10 @@ h1 {
 
 img {
   width: 50%;
-  margin-bottom: 0;
-  padding-bottom: 0;
 }
 
 p {
   padding: 0;
-  margin: 10px 0;
 }
 
 select {
